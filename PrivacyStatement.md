@@ -1,1 +1,1 @@
-No user info is collected.
+The Simple Wordlist app does not collect, store, or transmit any personal information. All data entered into the app, including words and definitions, is stored locally on your device and is not shared with any external servers or third parties. The app does not require an internet connection and ensures that your data remains private and secure. As an open-source application, you can review the source code to verify. If you have any questions, please contact me at abab75808@gmail.com
